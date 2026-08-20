@@ -9,7 +9,7 @@
 ### in the mixxxx 🎛️
 
 <p>
-<b>langs</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>langs</b></span>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -18,7 +18,7 @@
 </p>
 
 <p>
-<b>front</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>front</b></span>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
@@ -29,7 +29,7 @@
 </p>
 
 <p>
-<b>back</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>back</b></span>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
@@ -39,7 +39,7 @@
 </p>
 
 <p>
-<b>viz</b> &nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>viz</b></span>
 <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white" />
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
@@ -50,7 +50,7 @@
 </p>
 
 <p>
-<b>storage</b> &nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>storage</b></span>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MSSQL-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -60,12 +60,12 @@
 </p>
 
 <p>
-<b>build</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>build</b></span>
 <img src="https://img.shields.io/badge/Nx-14171F?style=flat&logo=nx&logoColor=white" />
 </p>
 
 <p>
-<b>devops</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; width:90px"><b>devops</b></span>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
